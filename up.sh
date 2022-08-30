@@ -7,7 +7,7 @@ QUAL="superfast"
 twitch="rtmp://sin04.contribute.live-video.net/app/"
 KEY="live_263980965_g6zaXhRdICs3OKDeYSEGCK0vM0Z0Ex"
 
-wget https://raw.githubusercontent.com/kudetid/up/main/mir4.mp4 -O mir.mp4
+curl https://raw.githubusercontent.com/kudetid/up/main/mir4.mp4 -o mir.mp4
 VIDEO_SOURCE="mir4.mp4"
 
 
